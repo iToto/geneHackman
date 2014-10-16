@@ -1,0 +1,152 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4F63A13C129FB03500E8ED97 /* geneHackman */;
+		activeTarget = 8DD76F620486A84900D96B5E /* geneHackman */;
+		codeSenseManager = 4F63A14F129FB05800E8ED97 /* Code sense */;
+		executables = (
+			4F63A13C129FB03500E8ED97 /* geneHackman */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 312455221;
+			PBXWorkspaceStateSaveDate = 312455221;
+		};
+		perUserProjectItems = {
+			4F63A15B129FB10300E8ED97 /* PBXBookmark */ = 4F63A15B129FB10300E8ED97 /* PBXBookmark */;
+			4F63A176129FB26700E8ED97 /* PBXTextBookmark */ = 4F63A176129FB26700E8ED97 /* PBXTextBookmark */;
+			4F63A177129FB26700E8ED97 /* PBXBookmark */ = 4F63A177129FB26700E8ED97 /* PBXBookmark */;
+			4F63A178129FB26700E8ED97 /* PBXTextBookmark */ = 4F63A178129FB26700E8ED97 /* PBXTextBookmark */;
+			4F63A17E129FB26700E8ED97 /* PBXTextBookmark */ = 4F63A17E129FB26700E8ED97 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4F63A14E129FB05800E8ED97 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1052, 1781}}";
+			sepNavSelRange = "{847, 0}";
+			sepNavVisRange = "{220, 1284}";
+			sepNavWindowFrame = "{{15, 157}, {1111, 866}}";
+		};
+	};
+	4F63A13C129FB03500E8ED97 /* geneHackman */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = geneHackman;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	4F63A14E129FB05800E8ED97 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4F63A14F129FB05800E8ED97 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4F63A15B129FB10300E8ED97 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+	};
+	4F63A176129FB26700E8ED97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 362;
+		vrLoc = 363;
+	};
+	4F63A177129FB26700E8ED97 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9953D8AB129F145900252BCD /* gene.cpp */;
+	};
+	4F63A178129FB26700E8ED97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9953D8AB129F145900252BCD /* gene.cpp */;
+		name = "gene.cpp: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 231;
+		vrLoc = 0;
+	};
+	4F63A17E129FB26700E8ED97 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 39";
+		rLen = 0;
+		rLoc = 847;
+		rType = 0;
+		vrLen = 1284;
+		vrLoc = 220;
+	};
+	8DD76F620486A84900D96B5E /* geneHackman */ = {
+		activeExec = 0;
+		executables = (
+			4F63A13C129FB03500E8ED97 /* geneHackman */,
+		);
+	};
+	9953D8AB129F145900252BCD /* gene.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {747, 2392}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 231}";
+			sepNavWindowFrame = "{{38, 136}, {1111, 866}}";
+		};
+	};
+}
